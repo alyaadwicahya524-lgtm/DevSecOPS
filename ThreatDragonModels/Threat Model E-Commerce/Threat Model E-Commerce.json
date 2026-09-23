@@ -29,8 +29,19 @@
         "name": "Shofie Trihapsari"
       }
     ],
-    "diagrams": [],
-    "diagramTop": 2,
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "Diagram Sistem E-Commerce",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data Flow Diagram untuk aplikasi pemesanan online"
+      }
+    ],
+    "diagramTop": 3,
     "reviewer": "April Rustianto, M.Kom",
     "threatTop": 0
   }
